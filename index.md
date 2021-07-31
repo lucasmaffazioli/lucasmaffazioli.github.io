@@ -36,6 +36,14 @@ Technolgies used: Flutter
 
 ### [Halp](https://github.com/lucasmaffazioli/cold_app)
 Concepts for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
+<details>
+	<summary>Preview</summary>
+  
+
+https://user-images.githubusercontent.com/12513049/127744078-d1faaff9-a1e3-48db-ad85-21ce6e75f273.mp4
+
+
+</details>
 
 Technolgies used: Figma
 
