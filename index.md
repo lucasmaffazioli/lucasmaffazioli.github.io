@@ -38,10 +38,9 @@ Technolgies used: Flutter
 Concepts for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
 <details>
 	<summary>Preview</summary>
-  
-
-https://user-images.githubusercontent.com/12513049/127744078-d1faaff9-a1e3-48db-ad85-21ce6e75f273.mp4
-
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/12513049/127744078-d1faaff9-a1e3-48db-ad85-21ce6e75f273.mp4" type="video/mp4">
+</video>
 
 </details>
 
