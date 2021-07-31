@@ -37,7 +37,7 @@ Technolgies used: Flutter
 ### [Halp](https://github.com/lucasmaffazioli/cold_app)
 Concepts for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
 
-<video muted autoplay controls>
+<video height="600" muted autoplay controls>
     <source src="assets/videos/halp_preview_xd.mp4" type="video/mp4">
 </video>
 
