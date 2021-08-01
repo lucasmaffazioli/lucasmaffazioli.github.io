@@ -1,18 +1,18 @@
 # Lucas Maffazioli Portfolio
 
 ### Halp
-Concepts for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
+Concept and demo app for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
 
 <video height="600" muted autoplay controls>
-    <source src="assets/videos/halp_preview_xd.mp4" type="video/mp4">
+    <source src="assets/videos/halp_preview.mp4" type="video/mp4">
 </video>
 
-Technologies used: Figma
+Technologies used: Flutter, Adobe XD
 
 ### [Interactions Tracker](https://github.com/lucasmaffazioli/cold_app)
 A Flutter app to track interactions with different people and the quality of them. Its very customizable and have some nice graphs.
 
-Technologies used: Flutter, SQLite
+Technologies used: Flutter, SQLite, Figma
 
 ### [War Art](https://github.com/lucasmaffazioli/WarArt)
 WarArt is an application that let you monitor your time when making War (chilling/enjoying your time) or Art (creative or productive work). You can also track when you're doing both.
