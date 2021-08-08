@@ -46,12 +46,6 @@ React responsive application with MirageJs to simulate an API.
 
 Stack: React, TypeScript, MirageJs
 
-### [React Components](https://github.com/lucasmaffazioli/desafio-rocketseat-componetizando)
-
-Simple website with components using json-server as api simulation.
-
-Stack: JS, React
-
 ### [Github Explorer](https://github.com/lucasmaffazioli/github-explorer)
 
 Simple React app that uses the Github api to show the repos of an organization.
