@@ -4,7 +4,7 @@
 
 Concept and demo app for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
 
-<video height="600" muted autoplay controls>
+<video height="500" muted autoplay controls>
     <source src="assets/videos/halp_preview.mp4" type="video/mp4">
 </video>
 
@@ -40,7 +40,7 @@ Stack: TypeScript
 
 React responsive application with MirageJs to simulate an API.
 
-<video height="600" muted autoplay controls>
+<video height="400" muted autoplay controls>
     <source src="assets/videos/dtmoney_preview.mp4" type="video/mp4">
 </video>
 
