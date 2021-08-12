@@ -44,7 +44,7 @@ React responsive application with MirageJs to simulate an API.
     <source src="assets/videos/dtmoney_preview.mp4" type="video/mp4">
 </video>
 
-Stack: React, TypeScript, MirageJs
+Stack: React, TypeScript, styled-components, MirageJs
 
 ### [Github Explorer](https://github.com/lucasmaffazioli/github-explorer)
 
