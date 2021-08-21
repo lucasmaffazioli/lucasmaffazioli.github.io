@@ -12,7 +12,11 @@ Stack: Flutter, Adobe XD
 
 ### [Interactions Tracker](https://github.com/lucasmaffazioli/cold_app)
 
-A Flutter app to track interactions with different people and the quality of them. Its very customizable and have some nice graphs.
+A Flutter app to track interactions with different people and the quality of them. It's very customizable.
+
+<video height="500" muted autoplay controls>
+    <source src="assets/videos/Interactions_tracker_preview.mp4" type="video/mp4">
+</video>
 
 Stack: Flutter, SQLite, Figma
 
