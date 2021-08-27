@@ -1,6 +1,6 @@
 # Lucas Maffazioli Portfolio
 
-### Zen Texts
+### [Zen Texts](https://github.com/lucasmaffazioli/zentexts)
 
 Jamstack clone of Medium with these features:
 
@@ -19,7 +19,7 @@ Jamstack clone of Medium with these features:
 
 Stack: React, Next.js (SPA, SSR, SSG), NextAuth, Jamstack [Stripe, FaunaDB, Prismic CMS], SASS, CSS Modules, Axios
 
-### Halp
+### [Halp](https://github.com/lucasmaffazioli/Halp_flutter)
 
 Concept and demo app for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
 
