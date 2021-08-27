@@ -1,5 +1,24 @@
 # Lucas Maffazioli Portfolio
 
+### Zen Texts
+
+Jamstack clone of Medium with these features:
+
+- Login via GitHub
+- Subscription via Sripe
+- Content creation via Prismic CMS
+- User subscription status saved on FaunaDB
+- Static Site Generation, Server Side Rendering and SPA
+- Pagination
+- Responsive
+- Deployed on Vercel
+
+<video height="500" muted autoplay controls>
+    <source src="assets/videos/zentexts_preview.mp4" type="video/mp4">
+</video>
+
+Stack: React, Next.js (SPA, SSR, SSG), NextAuth, Jamstack [Stripe, FaunaDB, Prismic CMS], SASS, CSS Modules, Axios
+
 ### Halp
 
 Concept and demo app for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
