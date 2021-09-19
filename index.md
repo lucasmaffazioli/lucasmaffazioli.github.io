@@ -21,23 +21,25 @@ Stack: React, Next.js (SPA, SSR, SSG), NextAuth, Jamstack [Stripe, FaunaDB, Pris
 
 ### [Halp](https://github.com/lucasmaffazioli/Halp_flutter)
 
-Concept and demo app for a social network for shareable knowledge, a blend of StackOverflow and TikTok.
+Concept and demo app for a social network of shareable knowledge, a blend of StackOverflow and TikTok.
 
 <video height="500" muted autoplay controls>
     <source src="assets/videos/halp_preview.mp4" type="video/mp4">
 </video>
 
-Stack: Flutter, Adobe XD
+Technologies used: Flutter, Adobe XD
 
-### [Interactions Tracker](https://github.com/lucasmaffazioli/cold_app)
+### [Interactions Tracker](https://github.com/lucasmaffazioli/interactions_tracker)
 
-A Flutter app to track interactions with different people and the quality of them. It's very customizable.
+This app was an idea I had to help a friend of my with social anxiety, a tool to gauge progress of putting yourself out here.
+
+This Flutter app sets objectives to interact with more people, allows you to track the interactions and the quality of them. The items which you can track are 100% customizable.
 
 <video height="500" muted autoplay controls>
     <source src="assets/videos/Interactions_tracker_preview.mp4" type="video/mp4">
 </video>
 
-Stack: Flutter, SQLite, Figma
+Technologies used: Flutter, SQLite, Figma
 
 ### [War Art](https://github.com/lucasmaffazioli/WarArt)
 
