@@ -11,7 +11,7 @@ Jamstack clone of Medium with these features:
 - Static Site Generation, Server Side Rendering and SPA
 - Pagination
 - Responsive
-- Deployed on Vercel
+- [Deployed on Vercel](http://zentexts.vercel.app/) (use demo card 5454 5454 5454 5454 to subscribe)
 
 <video height="500" muted autoplay controls>
     <source src="assets/videos/zentexts_preview.mp4" type="video/mp4">
